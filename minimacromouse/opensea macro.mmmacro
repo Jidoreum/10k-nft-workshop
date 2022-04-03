@@ -1,0 +1,29 @@
+﻿1 | 2511 | 830 | 0 | Keypress Ctrl+ | t
+2 | 2320 | 703 | 0 | Keypress %string%
+3 | 2551 | 822 | 0 | Keypress %integer%
+4 | 2523 | 838 | 0 | Keypress %string1%
+5 | 2320 | 703 | 0 | Keypress enter
+6 | RUN ACTION | WAIT SECONDS | +3
+7 | 2546 | 862 | 0 | Keypress %decimal%
+8 | 2546 | 862 | 150 | Keypress tab
+9 | 2546 | 862 | 150 | Keypress tab
+10 | 2546 | 862 | 150 | Keypress tab
+11 | 2546 | 862 | 150 | Keypress tab
+12 | 2546 | 862 | 150 | Keypress tab
+13 | 2546 | 862 | 150 | Keypress tab
+14 | 2546 | 862 | 150 | Keypress tab
+15 | 2546 | 862 | 150 | Keypress tab
+16 | 56 | 70 | 100 | Keypress space
+17 | 321 | 416 | 300 | Keypress enter
+18 | 286 | 447 | 300 | Keypress tab
+19 | 771 | 518 | 300 | Keypress tab
+20 | 839 | 533 | 300 | Keypress enter
+21 | 354 | 482 | 2800 | Keypress tab
+22 | 364 | 535 | 100 | Keypress tab
+23 | 364 | 535 | 100 | Keypress tab
+24 | 364 | 535 | 100 | Keypress enter
+25 | 252 | 568 | 2310 | Left Click Down
+26 | 252 | 568 | 107 | Left Click Release
+27 | RUN ACTION | WAIT SECONDS | +5
+28 | 1330 | -932 | 0 | Keypress Ctrl+ | w
+29 | RUN ACTION | DEFINE INTEGER VARIABLE | %INTEGER%::+1
